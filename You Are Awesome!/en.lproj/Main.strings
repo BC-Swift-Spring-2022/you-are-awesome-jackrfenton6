@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Fabulous? That's You!"; ObjectID = "VbL-cp-DHe"; */
+"VbL-cp-DHe.text" = "Fabulous? That's You!";
+
+/* Class = "UIButton"; configuration.title = "Show Message"; ObjectID = "anH-Yf-OhW"; */
+"anH-Yf-OhW.configuration.title" = "Show Message";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "anH-Yf-OhW"; */
+"anH-Yf-OhW.normalTitle" = "Button";
